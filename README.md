@@ -27,7 +27,7 @@
 
 9.Then double click on the Orange application . If your antivirus shows this as a virus then turn your antivirus off and try it
 
-10.This is not a virus this is safe 
+10. This is 100% safe 
 
 Orange Software is property of PSP SOFTWARES PVT.LTD 
 
