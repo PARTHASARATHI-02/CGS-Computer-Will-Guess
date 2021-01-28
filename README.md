@@ -3,7 +3,7 @@
 
 
 
-2.On the popup menu click Download as zip 
+2.On the popup menu click Download Zip 
 
 
 
