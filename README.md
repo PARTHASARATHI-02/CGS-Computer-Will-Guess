@@ -11,3 +11,6 @@
 
 
 3.Wait sometime and zip file will be downloaded 
+
+
+# Read Installation Instructions before using i.e- installation instructions.txt
